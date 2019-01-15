@@ -1,5 +1,5 @@
 ---
-kep-number: 0
+kep-number: 35
 title: Windows node support
 authors:
   - "@benmoss"

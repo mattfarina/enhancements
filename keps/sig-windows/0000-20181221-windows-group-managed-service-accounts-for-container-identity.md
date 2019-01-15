@@ -1,5 +1,5 @@
 ---
-kep-number: 0000
+kep-number: 34
 title: Windows Group Managed Service Accounts for Container Identity
 authors:
   - "@patricklang,@jeremywx,@ddebroy"
